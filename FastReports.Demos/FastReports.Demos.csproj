@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FastReport.OpenSource" Version="2021.4.6" />
+  </ItemGroup>
+
 </Project>
